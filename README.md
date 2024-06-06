@@ -27,7 +27,7 @@
    ![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/f9a5b29d-878e-4337-9477-7d447f6d5552)
 4. 群内发送`启用群机器人`  
    ![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/fd5fe27c-9f55-4631-88ed-f7ae71f7c3ea)
-5. 在群内发送菜单，并在菜单中找到适配插件/MOD下载地址  
+5. 在群内发送`菜单`，并在菜单中找到适配插件/MOD下载地址  
    ![3e3da10b202f98e52a5f30c4bb5e3233](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/0d742a3b-840e-4f6e-8082-b6345314e2f9)
 6. 安装适配插件/MOD
 7. 启动服务器，并记下`绑定码`  
