@@ -12,7 +12,24 @@
 - 你可以在Issue中提出宝贵的意见
 ----
 # 📖“部署”教程  
-还没写
+1. 添加CaiBot的QQ [2990574917]
+2. 发送加群邀请   
+![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/e1a0bc5e-8bb8-4c61-91b2-e9c14670d547)     
+3. 群内发送启用云黑 (如果你只想用云黑功能就到此为止)   
+![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/f9a5b29d-878e-4337-9477-7d447f6d5552)   
+4. 群内发送启用群机器人   
+![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/fd5fe27c-9f55-4631-88ed-f7ae71f7c3ea)   
+5. 在群内发送菜单，并在菜单中找到适配插件/MOD下载地址   
+![3e3da10b202f98e52a5f30c4bb5e3233](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/0d742a3b-840e-4f6e-8082-b6345314e2f9)   
+6. 安装适配插件/MOD   
+7. 启动服务器，并记下绑定码   
+![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/faa545f2-9db5-4d25-9e14-efc06c027086)   
+8. 群内发送添加服务器 <IP地址> <端口> <验证码>   
+![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/fd65a900-3332-4861-8542-1d24ef41a660)   
+9. 绑定服务器完成!发送菜单查看详细功能，发送在线查看服务器连接情况   
+![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/b7f5d96d-b411-4dd1-b7c8-f1598576a763)   
+> [!CAUTION]
+> 你可以在tshock/CaiBot.json中关闭CaiBot的白名单功能
 ----
 # 🔍命令列表  
 也还没写
