@@ -34,7 +34,7 @@
    ![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/faa545f2-9db5-4d25-9e14-efc06c027086)
 8. 群内发送`添加服务器 <IP地址> <端口> <验证码>`  
    ![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/fd65a900-3332-4861-8542-1d24ef41a660)
-9. 绑定服务器完成!发送菜单查看详细功能，发送在线查看服务器连接情况  
+9. 绑定服务器完成!发送`菜单`查看详细功能，发送`在线`查看服务器连接情况  
    ![image](https://github.com/ACaiCat/CaiBotDocument/assets/62058454/b7f5d96d-b411-4dd1-b7c8-f1598576a763)
 > [!CAUTION]
 > 你可以在`tshock/CaiBot.json`中关闭`CaiBot的白名单`功能
